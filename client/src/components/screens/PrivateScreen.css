@@ -1,0 +1,35 @@
+.private-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust the height based on your preference */
+  }
+  
+  .error-message {
+    color: red;
+  }
+  
+  .private-data {
+    background: blue;
+    color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+  }
+  
+  button {
+    background: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background: #45a049;
+  }
+  
+ 
+  
